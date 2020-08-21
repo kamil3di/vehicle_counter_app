@@ -1,2 +1,3 @@
-# vehicle_counter_app
-vehicle_counter_app
+# Vehicle counter app
+These py files help to count vehicles. 
+The main code is "video_player.py". 
